@@ -60,7 +60,15 @@ public class UnaryOperator {
 		boolean z = true;
 		boolean y = false;
 		
+		/* Not Operator
+		 * 
+		 * !True = False;
+		 * !False = True;
+		 */
+		
+		
 		System.out.println(!z); // Not z Means not of a so false
+		System.out.println(!y);  // true
 		
 	}
 
