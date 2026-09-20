@@ -14,6 +14,7 @@ public class Problem6 {
 				}
 				
 			}
+			
 			System.out.println(i);
 			
 			
